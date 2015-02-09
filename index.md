@@ -19,8 +19,8 @@
 ###skills
 - multiplatform (linux, windows, osx)
 - web_design (Illustrator, Photoshop, Edge, inDesign)
-- UX/UI
-- Metrics (google analytics, pixels, webtrends)
+- ux/ui
+- metrics (google analytics, pixels, webtrends)
 - ssh
 - [vagrant](http://www.vagrantup.com)
 - git
